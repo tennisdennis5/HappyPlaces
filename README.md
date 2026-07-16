@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Mit der App können Nutzer ihre Lieblingsorte speichern und verwalten.
+Mit der App können User und Userinnen ihre Lieblingsorte und schönsten Erinnerungen speichern.
 
 ## Funktionen
 
